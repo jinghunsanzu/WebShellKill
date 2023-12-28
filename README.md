@@ -2,4 +2,4 @@ Sangfor WebShellKill (网站后门检测工具)是一款 Web 后门专杀工具�
 
 兼容性：支持 Windows、linux
 
-https://github.com/Bypass007/Emergency-Response-Notes/blob/master/%E7%AC%AC01%E7%AB%A0%EF%BC%9A%E5%85%A5%E4%BE%B5%E6%8E%92%E6%9F%A5%E7%AF%87/image/20200407-6.png
+![](https://github.com/Bypass007/Emergency-Response-Notes/blob/master/%E7%AC%AC01%E7%AB%A0%EF%BC%9A%E5%85%A5%E4%BE%B5%E6%8E%92%E6%9F%A5%E7%AF%87/image/20200407-6.png)
